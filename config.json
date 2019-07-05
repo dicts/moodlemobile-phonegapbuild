@@ -1,6 +1,6 @@
 {
     "app_id": "ug.ac.mak.muele",
-    "appname": "Muele MObile",
+    "appname": "Muele Mobile",
     "desktopappname": "Moodle Desktop",
     "versioncode": 3700,
     "versionname": "3.7.0",
@@ -10,20 +10,17 @@
     "cache_update_frequency_rarely": 43200000,
     "default_lang": "en",
     "languages": {
-        "en": "English"
-        
+        "en": "English"       
     },
     "wsservice": "moodle_mobile_app",
-    "wsextservice": "local_mobile",
-    
+    "wsextservice": "local_mobile",    
     "customurlscheme": "muele.mak.ac.ug",
     "siteurl": "muele.mak.ac.ug",
     "static siteurl": "muele.mak.ac.ug",
-    "sitename": "Muele Mobile",
-    "multisitesdisplay": "",
+    "sitename": "Muele Mobile",     
     "skipssoconfirmation": false,
     "forcedefaultlanguage": false,
-    "privacypolicy": "https:\/\/moodle.org\/mod\/page\/view.php?id=8148",
+    
     "notificoncolor": "#f98012",
     "statusbarbg": false,
     "statusbarlighttext": false,
