@@ -17,7 +17,8 @@
     "wsextservice": "local_mobile",
     
     "customurlscheme": "muele.mak.ac.ug",
-    "siteurl": "https://muele.mak.ac.ug",
+    "siteurl": "muele.mak.ac.ug",
+    "static siteurl": "muele.mak.ac.ug";
     "sitename": "Muele Mobile",
     "multisitesdisplay": "",
     "skipssoconfirmation": false,
